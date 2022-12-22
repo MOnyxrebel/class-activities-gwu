@@ -1,0 +1,32 @@
+nav {
+  height: 50px;
+  background-color: lightgrey;
+}
+
+/* target the class of inline-block below */
+
+.inlineblock {
+  display: inline-block;
+  padding: 15px;
+
+
+}
+
+/* target the class of .left below */
+ 
+.left {
+  height: 500px;
+  float: left;
+
+
+}
+
+
+/* target the class of .right below */
+
+
+.right {
+  height:500px;
+  float: left;
+
+}

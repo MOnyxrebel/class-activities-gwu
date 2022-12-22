@@ -1,0 +1,45 @@
+nav {
+
+background-color: black;
+height: 50px;
+
+}
+
+.menu-item {
+display: inline-block;
+width:100px ;
+height: 40px;
+color: white;
+background-color: black;
+text-align: center;
+vertical-align: middle;
+padding-top:10px;
+
+}
+
+.sidebar {
+    width: 29%;
+    background-color: silver;
+    float: left;
+    height: 800px;
+
+}
+
+
+.main-content {
+
+    width: 60%;
+    float: left;
+    background-color: blue;
+
+}
+
+
+.pet-name img {
+    width: 150px;
+
+
+
+}
+
+
